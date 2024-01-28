@@ -17,10 +17,10 @@ $(document).ready(function () {
 
     $(".animated-text").typed({
         strings: [
-            "fully responsive",
-            "onepage template",
-            "mobile first",
-            "startup template"
+            "GCP consultant",
+            "GCP forecasting automation",
+            "GCP data visualization",
+            "GCP data analysis",
         ],
         typeSpeed: 40,
         loop: true,
